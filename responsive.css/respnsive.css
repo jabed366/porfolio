@@ -99,6 +99,7 @@
     }
     .banner-caption h1 {
         font-size: 23px;
+        max-width:67%;
     }
 
 }
